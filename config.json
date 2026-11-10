@@ -1,0 +1,12 @@
+{
+  "cafe_name": "Buno",
+  "currency": "EGP",
+  "tables": 12,
+  "port": 8090,
+  "public_url": "",
+  "owner_email": "owner@cafe.com",
+  "owner_password": "owner123",
+  "staff_email": "staff@cafe.com",
+  "staff_password": "staff123",
+  "reward_min_total": 500
+}
